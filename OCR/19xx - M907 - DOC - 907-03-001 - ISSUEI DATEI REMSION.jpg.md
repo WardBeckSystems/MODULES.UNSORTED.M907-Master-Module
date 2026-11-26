@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 26 in 22 lines: 83283 · REQ D · 0.210 · 0,015 · seCTON · MATERIAL: ALUM ALLOY 0.125 MhICK · FINISH: · SAND 120 Grit AND PAINT · TEXTURED   BEIGE (452C) · TEXCOTE MNYL · (EXTRA FINE TEXTURE) · 1J.150
 - **Title block:** (342, 22)–(427, 38) mm: REM9G · WBS · WARD-BECK  SYSTEMS · M907
 
-Every curve, box, word and wire group: [19xx - M907 - DOC - 907-03-001 - ISSUEI DATEI REMSION (traced).json](../MECHANICAL/19xx%20-%20M907%20-%20DOC%20-%20907-03-001%20-%20ISSUEI%20DATEI%20REMSION%20(traced).json) (the CAD file: `19xx - M907 - DOC - 907-03-001 - ISSUEI DATEI REMSION (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M907 - DOC - 907-03-001 - ISSUEI DATEI REMSION (traced).json](../MECHANICAL/19xx%20-%20M907%20-%20DOC%20-%20907-03-001%20-%20ISSUEI%20DATEI%20REMSION%20%28traced%29.json) (the CAD file: `19xx - M907 - DOC - 907-03-001 - ISSUEI DATEI REMSION (traced).dxf`).
 
 ## Full text
 

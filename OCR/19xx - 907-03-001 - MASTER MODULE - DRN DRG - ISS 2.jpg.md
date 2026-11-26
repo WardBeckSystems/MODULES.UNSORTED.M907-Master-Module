@@ -32,7 +32,7 @@ Wiki page: [M907](../../../../PAGES/M907.md)
 - **Words (OCR):** 25 in 21 lines: REQ D · 0.210 · 0,015 · SECTON · (SOEAIL)) · MATERIAL: ALUM ALLOY 0.125 ThICK · FINISH: · SAND 120 Grit AND PAINT · TEXTURED   BEIGE (4520) · TEXCOTE MNYL · (EXTRA FINE TEXTURE) · 1J.150
 - **Title block:** (684, 44)–(853, 77) mm: REMNCr · WBS · WARD-BECK  SYSTEMS · M907
 
-Every curve, box, word and wire group: [19xx - 907-03-001 - MASTER MODULE - DRN DRG - ISS 2 (traced).json](../MECHANICAL/19xx%20-%20907-03-001%20-%20MASTER%20MODULE%20-%20DRN%20DRG%20-%20ISS%202%20(traced).json) (the CAD file: `19xx - 907-03-001 - MASTER MODULE - DRN DRG - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 907-03-001 - MASTER MODULE - DRN DRG - ISS 2 (traced).json](../MECHANICAL/19xx%20-%20907-03-001%20-%20MASTER%20MODULE%20-%20DRN%20DRG%20-%20ISS%202%20%28traced%29.json) (the CAD file: `19xx - 907-03-001 - MASTER MODULE - DRN DRG - ISS 2 (traced).dxf`).
 
 ## Full text
 
