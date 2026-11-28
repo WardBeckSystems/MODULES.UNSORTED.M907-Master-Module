@@ -31,7 +31,7 @@ Power
 
 ```json
 {
- "file": "Modules/UNSORTED/M907/MANUALS/19xx - M907 - DOC - WBSps.ca -2021-3-15-19-3-51.jpg",
+ "file": "Modules/RENAISSANCE/M907/MANUALS/19xx - M907 - DOC - WBSps.ca -2021-3-15-19-3-51.jpg",
  "sha256": "4c6146b100b63d0b6a5f0b42a4c1fa9eea4281e7a3a956940ee9c3cd4683257c",
  "kind": "doc",
  "models": [

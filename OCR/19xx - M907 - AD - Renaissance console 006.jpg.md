@@ -215,7 +215,7 @@ CH ON
 
 ```json
 {
- "file": "Modules/UNSORTED/M907/MANUALS/19xx - M907 - AD - Renaissance console 006.jpg",
+ "file": "Modules/RENAISSANCE/M907/MANUALS/19xx - M907 - AD - Renaissance console 006.jpg",
  "sha256": "ae89a6ad140b7c7a93ea98694b94732273b81075e366aa09ff53af84e9fa7446",
  "kind": "ad",
  "models": [

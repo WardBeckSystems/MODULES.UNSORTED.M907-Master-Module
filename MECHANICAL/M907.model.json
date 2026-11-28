@@ -1,7 +1,7 @@
 {
  "format": "wbs-model/1",
  "module": "M907",
- "repo": "MODULES.UNSORTED.M907-Master-Module",
+ "repo": "MODULES.RENAISSANCE.M907-Master-Module",
  "title": "Master Module",
  "category": "UNSORTED",
  "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",

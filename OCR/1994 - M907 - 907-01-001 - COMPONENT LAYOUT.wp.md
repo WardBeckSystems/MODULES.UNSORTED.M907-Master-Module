@@ -546,7 +546,7 @@ MW94001/M907#2.WP
 
 ```json
 {
- "file": "Modules/UNSORTED/M907/MANUALS/1994 - M907 - 907-01-001 - COMPONENT LAYOUT.wp",
+ "file": "Modules/RENAISSANCE/M907/MANUALS/1994 - M907 - 907-01-001 - COMPONENT LAYOUT.wp",
  "sha256": "557deec9a3dbe41bdc69c5f03c4bc17d17241efad8d4a39eaef4d15d3da06025",
  "kind": "module",
  "models": [
