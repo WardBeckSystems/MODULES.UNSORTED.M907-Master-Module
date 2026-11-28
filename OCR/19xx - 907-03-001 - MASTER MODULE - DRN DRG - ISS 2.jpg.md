@@ -1,5 +1,5 @@
 # 19xx - 907-03-001 - MASTER MODULE - DRN DRG - ISS 2.jpg
-Wiki page: [M907](../../../../PAGES/M907.md)
+Wiki page: [M907](../)
 
 
 - **Year:** unknown (title block (read by eye))

@@ -1,6 +1,6 @@
 # M907 Master Module · Renaissance
 
-Ward-Beck Systems M907, 1994|27. Wiki page: [M907 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M907.html)
+Ward-Beck Systems M907, 1994|27. Wiki page: [M907 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M907-Master-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

@@ -1,5 +1,5 @@
 # 1994 - M907 - 907-01-001 - COMPONENT LAYOUT.wp
-Wiki page: [M907](../../../../PAGES/M907.md)
+Wiki page: [M907](../)
 
 
 - **Year:** 1994 (found in this file: "Issue #2 November 2, 1994")
