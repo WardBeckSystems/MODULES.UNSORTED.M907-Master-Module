@@ -1,16 +1,15 @@
-# M907 Master Module · Unsorted
+# M907 Master Module · Renaissance
 
 Ward-Beck Systems M907, 1994|27. Wiki page: [M907 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M907.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 9 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 95 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 14 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 8 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 96 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 13 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 3 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 36 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -74,8 +73,6 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1ww6Uvru31dKVnBbd7KLL7c9lrfQDJCR-/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1ww6Uvru31dKVnBbd7KLL7c9lrfQDJCR-" width="240" alt="19xx - M907 - DOC - 907-03-001 - ISSUEI DATEI REMSION.jpg"></a><br><sub>19xx - M907 - DOC - 907-03-001 - ISSUEI DATEI REMSION · <a href="MECHANICAL/19xx%20-%20M907%20-%20DOC%20-%20907-03-001%20-%20ISSUEI%20DATEI%20REMSION%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `19xx - 907-03-001 - MASTER MODULE - DRN DRG - ISS 2.jpg`
-
 ## 3-D model
 
 [`MECHANICAL/M907.stl`](MECHANICAL/M907.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M907)
@@ -110,7 +107,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1994 - M907 - DOC - 94064-01-001 - ROUTING SWTCHER ARE INTEGRATED INTO CONSOLE.kicad_sch](KICAD/1994%20-%20M907%20-%20DOC%20-%2094064-01-001%20-%20ROUTING%20SWTCHER%20ARE%20INTEGRATED%20INTO%20CONSOLE.kicad_sch)
 - [1994 - M907 - DOC - 94064-01-006 - DUAL STEREO LINE SELECTOR WHICH ARE PROVIDED.kicad_sch](KICAD/1994%20-%20M907%20-%20DOC%20-%2094064-01-006%20-%20DUAL%20STEREO%20LINE%20SELECTOR%20WHICH%20ARE%20PROVIDED.kicad_sch)
 - [M907.kicad_sym](KICAD/M907.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
